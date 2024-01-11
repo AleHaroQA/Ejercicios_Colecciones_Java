@@ -104,17 +104,17 @@ columna de la matriz M en la cual empieza el primer elemento de la submatriz P.
 
 ### Extras
 
-1. Dado un tiempo en minutos, calcular su equivalente en días y horas. Por ejemplo, si el
+- 1.Dado un tiempo en minutos, calcular su equivalente en días y horas. Por ejemplo, si el
 usuario ingresa 1600 minutos, el sistema debe calcular su equivalente: 1 día, 2 horas.
-2. Declarar cuatro variables de tipo entero A, B, C y D y asignarle un valor diferente a cada
+- 2.Declarar cuatro variables de tipo entero A, B, C y D y asignarle un valor diferente a cada
 una. A continuación, realizar las instrucciones necesarias para que: B tome el valor de C,
 C tome el valor de A, A tome el valor de D y D tome el valor de B. Mostrar los valores
 iniciales y los valores finales de cada variable. Utilizar sólo una variable auxiliar.
-3. Elaborar un algoritmo en el cuál se ingrese una letra y se detecte si se trata de una vocal.
+- 3.Elaborar un algoritmo en el cuál se ingrese una letra y se detecte si se trata de una vocal.
 Caso contrario mostrar un mensaje. 
-4. Elaborar un algoritmo en el cuál se ingrese un número entre 1 y 10 y se muestre su
+- 4.Elaborar un algoritmo en el cuál se ingrese un número entre 1 y 10 y se muestre su
 equivalente en romano.
-5. Una obra social tiene tres clases de socios:
+- 5.Una obra social tiene tres clases de socios:
 o Los socios tipo ‘A’ abonan una cuota mayor, pero tienen un 50% de descuento en
 todos los tipos de tratamientos.
 o Los socios tipo ‘B’ abonan una cuota moderada y tienen un 35% de descuento
@@ -125,17 +125,17 @@ o Solicite una letra (carácter) que representa la clase de un socio, y luego un
 real que represente el costo del tratamiento (previo al descuento) y determine el
 importe en efectivo a pagar por dicho socio.
 
-6. Leer la altura de N personas y determinar el promedio de estaturas que se encuentran
+- 6.Leer la altura de N personas y determinar el promedio de estaturas que se encuentran
 por debajo de 1.60 mts. y el promedio de estaturas en general.
-7. Realice un programa que calcule y visualice el valor máximo, el valor mínimo y el
+- 7.Realice un programa que calcule y visualice el valor máximo, el valor mínimo y el
 promedio de n números (n>0). El valor de n se solicitará al principio del programa y los
 números serán introducidos por el usuario. Realice dos versiones del programa, una
 usando el bucle “while” y otra con el bucle “do - while”.
-8. Escriba un programa que lea números enteros. Si el número es múltiplo de cinco debe
+- 8.Escriba un programa que lea números enteros. Si el número es múltiplo de cinco debe
 detener la lectura y mostrar la cantidad de números leídos, la cantidad de números pares
 y la cantidad de números impares. Al igual que en el ejercicio anterior los números
 negativos no deben sumarse.
-9. Simular la división usando solamente restas. Dados dos números enteros mayores que
+- 9.Simular la división usando solamente restas. Dados dos números enteros mayores que
 uno, realizar un algoritmo que calcule el cociente y el residuo usando sólo restas.
 Método: Restar el dividendo del divisor hasta obtener un resultado menor que el divisor,
 este resultado es el residuo, y el número de restas realizadas es el cociente.
@@ -145,15 +145,15 @@ Por ejemplo: 50 / 13:
 24 – 13 = 11 tres restas realizadas
 dado que 11 es menor que 13, entonces: el residuo es 11 y el cociente es 3.
 
-10. Realice un programa para que el usuario adivine el resultado de una multiplicación entre
+- 10.Realice un programa para que el usuario adivine el resultado de una multiplicación entre
 dos números generados aleatoriamente entre 0 y 10. El programa debe indicar al usuario
 si su respuesta es o no correcta. En caso que la respuesta sea incorrecta se debe permitir
 al usuario ingresar su respuesta nuevamente.
-12. Necesitamos mostrar un contador con 3 dígitos (X-X-X), que muestre los números del 0-
+- 12.Necesitamos mostrar un contador con 3 dígitos (X-X-X), que muestre los números del 0-
 0-0 al 9-9-9, con la particularidad que cada vez que aparezca un 3 lo sustituya por una E.
-13. Crear un programa que dibuje una escalera de números, donde cada línea de números
+- 13.Crear un programa que dibuje una escalera de números, donde cada línea de números
 comience en uno y termine en el número de la línea. Solicitar la altura de la escalera al
 usuario al comenzar. 
-14. Se dispone de un conjunto de N familias, cada una de las cuales tiene una M cantidad de
+- 14.Se dispone de un conjunto de N familias, cada una de las cuales tiene una M cantidad de
 hijos. Escriba un programa que pida la cantidad de familias y para cada familia la
 cantidad de hijos para averiguar la media de edad de los hijos de todas las familias.
